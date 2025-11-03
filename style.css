@@ -19,6 +19,20 @@ div.section{
     margin-bottom: 150px;
 }
 
+footer{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: #262626;
+    font-weight: 300;
+}
+
+footer a{
+    color: #0f548d;
+    text-align: right;
+    font-size: small;
+}
+
 /* Legal notice*/
 body.legalNotice{
     height: 100%;
